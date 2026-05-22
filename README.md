@@ -75,8 +75,7 @@ Online-Food-Ordering-System/
 │       └── style.css           # Includes .auth-container, .role-card,
 │                               #   .input-with-toggle, .password-strength styles
 │
-├── AUTHENTICATION.md           # ← This file
-└── README.md
+├── README.md         # ← This file
 
 # Installation
 
